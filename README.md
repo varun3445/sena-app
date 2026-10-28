@@ -27,15 +27,6 @@ Implements padel scoring end to end: points, games, sets, tiebreaks, singles and
 
 TypeScript, Vite, MediaPipe Tasks Vision. No backend; match history is stored in the browser (`localStorage`).
 
-## Run it locally
-
-```bash
-npm install
-npm run dev
-```
-
-Allow camera access when prompted.
-
 ## Status
 
 Working gesture prototype.
